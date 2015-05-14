@@ -38,7 +38,7 @@ class Welcome extends CI_Controller
 {
 	public function index()
 	{
-		$this->load('doctrine');
+		$this->load->library('doctrine');
 
 		$user = new Entities\User;
 		$user->setFirstName('Foo');
