@@ -1,4 +1,4 @@
-# Twig library for CodeigniterJoel Verhagen
+# Twig connector for Codeigniter
 
 This library allows to use the Doctrine ORM engine in the CodeIgniter web 
 framework. 
@@ -9,10 +9,11 @@ framework.
 **Licence:** This library is provided under the [GNU General Public License, 
 version 3](http://opensource.org/licenses/GPL-3.0).
 
-**Author:** Cyrille TOULET <cyrille.toulet@linux.com>
+**Authors:** 
+ - Cyrille TOULET <cyrille.toulet@linux.com>
 
 **Please note:** This library has been principally inspired from a tutorial 
-by Joel Verhagen.
+by **Joel Verhagen**.
 
 
 ## Usage
